@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+}
+
+.form-class{
+    margin-top: 100px;
+}
+
+.customm{
+    background-color: antiquewhite;
+}
+
+
+#div1{
+    background-color: #212529;
+    height: 100vh;
+}
+
+.div4{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    /* margin-left: 150px; */
+
+}
+
+.div5{
+    margin-left: 80px ;
+    margin-top: 20px;
+}
