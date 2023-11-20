@@ -20,6 +20,8 @@ body{
     display: flex;
     margin-bottom: 20px;
     margin-top: 20px;
+    align-items: center;
+    justify-content: center;
     /* margin-left: 150px; */
 
 }
@@ -27,4 +29,7 @@ body{
 .div5{
     margin-left: 80px ;
     margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+
 }
